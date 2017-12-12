@@ -26,7 +26,7 @@ namespace VendingMachine
             {
                 Console.WriteLine("Welcome to the Vending Machine.");
                 Console.WriteLine("You have " + this.money + " money");
-                Console.WriteLine("Please Type 1-3 to do something: ");
+                Console.WriteLine("Please Type 1-4 to do something: ");
                 Console.WriteLine("1. Insert money." + Environment.NewLine +
                                   "2. Buy product." + Environment.NewLine +
                                   "3. Consume product." + Environment.NewLine +
